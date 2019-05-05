@@ -12,6 +12,13 @@ I have divided each game's code into various sub folders termed as lesson ( Basi
 <br/>
 
 
+### Installation
+Download XAMPP.Clone or download the repo and place it inside htdocs (Which is located inside XAMPP folder)<br/>
+Now Double click on XAMPP and start the apache server<br/>
+open any browser and type localhost following the file's path <br/>
+example : http://localhost/BIKE/lesson3/
+
+
 
 ### Note
 ```
